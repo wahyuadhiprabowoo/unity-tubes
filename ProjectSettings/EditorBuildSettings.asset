@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 5864249599589f4478bd3bbea2818c88
+  - enabled: 1
     path: Assets/Scenes/HomeScene.unity
     guid: 64542929073bf8c42b8aaabf648d4be1
   - enabled: 1
@@ -23,6 +26,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SinauScene5.unity
     guid: 72d654ac012221d478189eadf62fbe12
+  - enabled: 1
+    path: Assets/Scenes/Soal/Angel/Angel 3.unity
+    guid: 5e31aeab6f9c3dc448fe775d69fcde17
+  - enabled: 1
+    path: Assets/Scenes/Soal/Angel/Angel 4.unity
+    guid: d8ab1f136b57cf5449ed8dbdc47a4876
+  - enabled: 1
+    path: Assets/Scenes/Soal/Angel/Angel 5.unity
+    guid: 8f38fee0b0b8a0e49b7d73b26bea57a2
   - enabled: 1
     path: Assets/Scenes/SinauScene7.unity
     guid: e4bf1f7314b3bca419abe3f6e0277f40
@@ -48,6 +60,18 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Soal/Gampang/Gampang 1.unity
+    guid: 4d6e411b8f287724fad22885a200b662
+  - enabled: 1
+    path: Assets/Scenes/Soal/Gampang/Gampang 2.unity
+    guid: 52af2f62b8f08924facb793e56b6c59d
+  - enabled: 1
+    path: Assets/Scenes/Soal/Gampang/Gampang 3.unity
+    guid: 81d2d65ff457ece4ab7ecb3a3ac0dcd7
+  - enabled: 1
+    path: Assets/Scenes/Soal/Gampang/Gampang 4.unity
+    guid: 8ebe6f4c6cac189489ac57546a2c3076
+  - enabled: 1
     path: Assets/Scenes/Soal/Sedeng/Sedeng 1.unity
     guid: 418eec482fb1e3a4c8621999ba4657c1
   - enabled: 1
@@ -56,4 +80,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Soal/Sedeng/Sedeng 3.unity
     guid: 353e05103e80f0b4b815a5f04e328489
+  - enabled: 1
+    path: Assets/Scenes/Soal/Angel/Angel 1.unity
+    guid: 2df52f44fc3c84246b596df42e32e209
+  - enabled: 1
+    path: Assets/Scenes/Soal/Angel/Angel 2.unity
+    guid: 5c2a6bdc58facf94994e107ad00e229c
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai0.unity
+    guid: 7b51192f6daf3ad4aac190462f22d591
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai20.unity
+    guid: 31c84b1988cdff24cafdb0bca450c2da
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedeng/Sedeng 4.unity
+    guid: 1c888085bdb0d5148953f35be6620e88
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedeng/Sedeng 5.unity
+    guid: 516b2266a4c611b4ca1a8fbdba2514c2
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai40.unity
+    guid: 9a8cedab33d6d79449b30ccb6dec3ef8
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai60.unity
+    guid: 87a86389c529a4b4990ebf8b61fb056a
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai80.unity
+    guid: 4c9e669f645371a458b86233cc65be9e
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai100.unity
+    guid: a6f8fe9025d882f4a9e0f590a308f22c
+  - enabled: 1
+    path: Assets/Scenes/Soal/Gampang/Gampang 5.unity
+    guid: 4d7c56c9f2b68e542a690dd6de7f40e6
   m_configObjects: {}

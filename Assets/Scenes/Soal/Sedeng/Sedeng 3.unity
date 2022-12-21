@@ -160,8 +160,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -65, y: -76.45}
-  m_SizeDelta: {x: 118.65, y: 42.81}
+  m_AnchoredPosition: {x: -158.29, y: -187.55}
+  m_SizeDelta: {x: 285.05, y: 102.86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &517547457
 MonoBehaviour:
@@ -209,7 +209,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kuis
+        m_MethodName: nilai40
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -294,8 +294,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 93.53999, y: -76.45}
-  m_SizeDelta: {x: 118.65, y: 42.81}
+  m_AnchoredPosition: {x: 222.58, y: -187.55}
+  m_SizeDelta: {x: 285.05, y: 102.86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &522503668
 MonoBehaviour:
@@ -343,7 +343,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kuis
+        m_MethodName: nilai40
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -426,8 +426,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030518, y: -0.000011444}
-  m_SizeDelta: {x: 629, y: 354}
+  m_AnchoredPosition: {x: -2.15, y: -3.84}
+  m_SizeDelta: {x: 1921.96, y: 1081.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &575683043
 MonoBehaviour:
@@ -502,8 +502,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0012493, y: -0.00099564}
-  m_SizeDelta: {x: 629, y: 354}
+  m_AnchoredPosition: {x: -29.34001, y: -3.620001}
+  m_SizeDelta: {x: 1657.67, y: 902.17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584720359
 MonoBehaviour:
@@ -740,8 +740,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -65, y: -33.64}
-  m_SizeDelta: {x: 118.65, y: 42.81}
+  m_AnchoredPosition: {x: -158.29, y: -84.67}
+  m_SizeDelta: {x: 285.05, y: 102.86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &770369470
 MonoBehaviour:
@@ -789,7 +789,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kuis
+        m_MethodName: nilai40
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1060,8 +1060,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 93.53999, y: -33.64}
-  m_SizeDelta: {x: 118.65, y: 42.81}
+  m_AnchoredPosition: {x: 222.58, y: -84.67}
+  m_SizeDelta: {x: 285.05, y: 102.86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1655320045
 MonoBehaviour:
@@ -1109,7 +1109,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kuis
+        m_MethodName: sedeng4
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

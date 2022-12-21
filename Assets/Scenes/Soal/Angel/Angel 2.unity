@@ -160,8 +160,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -61, y: -64}
-  m_SizeDelta: {x: 108, y: 44.51}
+  m_AnchoredPosition: {x: -211, y: -154.04}
+  m_SizeDelta: {x: 259.48, y: 107.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &517547457
 MonoBehaviour:
@@ -209,7 +209,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: angel3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -294,8 +294,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 85.06, y: -64.00001}
-  m_SizeDelta: {x: 89.1, y: 44.51}
+  m_AnchoredPosition: {x: 202.55, y: -154.04}
+  m_SizeDelta: {x: 214.07, y: 107.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &522503668
 MonoBehaviour:
@@ -343,7 +343,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: nilai20
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -426,8 +426,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030518, y: -0.000011444}
-  m_SizeDelta: {x: 629, y: 354}
+  m_AnchoredPosition: {x: -1.81, y: 0.59}
+  m_SizeDelta: {x: 1922.13, y: 1087.19}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &575683043
 MonoBehaviour:
@@ -502,8 +502,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0012493, y: -0.00099564}
-  m_SizeDelta: {x: 629, y: 354}
+  m_AnchoredPosition: {x: -29.34001, y: -3.620001}
+  m_SizeDelta: {x: 1657.67, y: 902.17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584720359
 MonoBehaviour:
@@ -740,8 +740,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -57.940002, y: -19.490002}
-  m_SizeDelta: {x: 114.12, y: 44.51}
+  m_AnchoredPosition: {x: -203.66, y: -46.49}
+  m_SizeDelta: {x: 274.18, y: 107.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &770369470
 MonoBehaviour:
@@ -789,7 +789,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: nilai20
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1060,8 +1060,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 85.06, y: -19.490002}
-  m_SizeDelta: {x: 95.17, y: 44.51}
+  m_AnchoredPosition: {x: 202.55, y: -46.49}
+  m_SizeDelta: {x: 228.65, y: 107.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1655320045
 MonoBehaviour:
@@ -1109,7 +1109,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: nilai20
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

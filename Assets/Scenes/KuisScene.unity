@@ -209,7 +209,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1841384253}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kembalimainmenu
+        m_MethodName: sedeng1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -343,7 +343,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1841384253}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kembalimainmenu
+        m_MethodName: gampang1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1387,7 +1387,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1841384253}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: kembalimainmenu
+        m_MethodName: angel1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

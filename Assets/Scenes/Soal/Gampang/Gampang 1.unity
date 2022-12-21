@@ -150,7 +150,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 517547455}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2414.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -160,8 +160,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -54, y: -59}
-  m_SizeDelta: {x: 85.57, y: 44.51}
+  m_AnchoredPosition: {x: -171.67001, y: -154}
+  m_SizeDelta: {x: 225.52, y: 113.41}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &517547457
 MonoBehaviour:
@@ -209,7 +209,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: gampang2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -284,7 +284,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 522503666}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2414.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -294,8 +294,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 92.770004, y: -59}
-  m_SizeDelta: {x: 74.14, y: 44.51}
+  m_AnchoredPosition: {x: 215.13, y: -154}
+  m_SizeDelta: {x: 195.37, y: 113.41}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &522503668
 MonoBehaviour:
@@ -343,7 +343,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: nilai0
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -417,7 +417,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 575683041}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2414.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -426,8 +426,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030518, y: -0.000011444}
-  m_SizeDelta: {x: 629, y: 354}
+  m_AnchoredPosition: {x: -0.83, y: -1.04}
+  m_SizeDelta: {x: 1922.01, y: 1074.39}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &575683043
 MonoBehaviour:
@@ -493,7 +493,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584720357}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2414.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -502,8 +502,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0012493, y: -0.00099564}
-  m_SizeDelta: {x: 629, y: 354}
+  m_AnchoredPosition: {x: -29.340006, y: -3.6200008}
+  m_SizeDelta: {x: 1657.67, y: 902.17}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584720359
 MonoBehaviour:
@@ -730,7 +730,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 770369468}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2414.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -740,8 +740,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -39.719997, y: -14.49}
-  m_SizeDelta: {x: 114.12, y: 44.51}
+  m_AnchoredPosition: {x: -134, y: -40.54}
+  m_SizeDelta: {x: 300.75, y: 113.41}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &770369470
 MonoBehaviour:
@@ -789,7 +789,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: nilai0
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1050,7 +1050,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1655320043}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2414.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1060,8 +1060,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 97.05, y: -14.49}
-  m_SizeDelta: {x: 82.71, y: 44.51}
+  m_AnchoredPosition: {x: 226.41, y: -40.54}
+  m_SizeDelta: {x: 217.97, y: 113.41}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1655320045
 MonoBehaviour:
@@ -1109,7 +1109,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2083414583}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: sedeng2
+        m_MethodName: nilai0
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1395,8 +1395,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2083414582}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0.0219, y: -0.0096, z: -22.3571}
+  m_LocalScale: {x: 1.4968802, y: 1.4968802, z: 1.4968802}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
